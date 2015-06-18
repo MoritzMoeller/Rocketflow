@@ -1,3 +1,4 @@
+![Screenshot](https://raw.githubusercontent.com/MoritzMoeller/Rocketflow/master/rocketflow.png "Logo")
 RocketFlow
 ================
 
@@ -16,7 +17,4 @@ Features:
 
 Screenshots
 ================
-
-![Screenshot](https://raw.github.com/martinjuhasz/HSRMKeyboardHero/master/res/screenshots/screenshot_1.png "Screenshot")
-
 ![Screenshot](https://raw.github.com/martinjuhasz/HSRMKeyboardHero/master/res/screenshots/screenshot_2.png "Screenshot")
