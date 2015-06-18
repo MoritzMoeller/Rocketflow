@@ -51,4 +51,5 @@ werden. Dies führt dazu, dass ein Testworkflow und dafür benötigte Benutzer u
 
 Screenshots
 ================
-![Screenshot](https://raw.github.com/martinjuhasz/HSRMKeyboardHero/master/res/screenshots/screenshot_2.png "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/MoritzMoeller/Rocketflow/master/screen01.png "Workflow Editor")
+![Screenshot](https://raw.githubusercontent.com/MoritzMoeller/Rocketflow/master/screen02.png "Workflow Client")
