@@ -51,5 +51,8 @@ werden. Dies führt dazu, dass ein Testworkflow und dafür benötigte Benutzer u
 
 Screenshots
 ================
+Workflows erstellen und editieren
 ![Screenshot](https://raw.githubusercontent.com/MoritzMoeller/Rocketflow/master/screen01.png "Workflow Editor")
+
+Workflow Client zum abarbeiten der Tasks
 ![Screenshot](https://raw.githubusercontent.com/MoritzMoeller/Rocketflow/master/screen02.png "Workflow Client")
