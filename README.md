@@ -1,4 +1,4 @@
-Rocketflow
+RocketFlow
 ================
 
 RocketFlow ist eine Software, die im Zuge der Veranstaltung Sofwaretechnik entstanden ist. 
