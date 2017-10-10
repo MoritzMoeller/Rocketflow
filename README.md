@@ -2,17 +2,17 @@
 RocketFlow
 ================
 
-RocketFlow ist eine Software, die im Zuge der Veranstaltung Sofwaretechnik entstanden ist. 
-Entwickelt wurde die Anwendung agil mittels Scrum in einem 9 Mann Team. Die Anforderung an die Software war es, Firmen zu ermöglichen strukturierte Arbeitsabläufe festzulegen und die inviduelle Arbeitsschritte erfassen zu können.
-Dabei heraus gekommen ist unser WorkflowManager RocketFlow. 
+RocketFlow ist eine Software, die im Zuge der Veranstaltung Sofwaretechnik an der Hochschule RheinMain entwickelt wurde.
+Umgesetzt wurde das Projekt in einem agilen Team mittels Scrum. Die Anforderung an die Software war es, Firmen zu ermöglichen strukturierte Arbeitsabläufe festzulegen, um so inviduelle Arbeitsschritte erfassen zu können.
+Das Endergebnis ist der WorkflowManager RocketFlow. 
 
 Technologie:
-* Der Server ist mittels Java realisiert
-* Mittels PostgreSQL und MyBatis wurde die Datenbankanbindung implementiert
-* Der Client ist in C# geschrieben
+* Der Server ist in Java implementiert
+* Mittels PostgreSQL und MyBatis wurde die Datenbankanbindung realisiert
+* Der Client ist in C# implementiert
 * Die Client-Server Kommunikation wird über REST Schnittstellen bereitgestellt
-* Die Parallelbearbeitung ist mittels Message Bus realisiert
-* Als Build-Server wurde Maven verwendet
+* Die Parallelbearbeitung ist mittels eines Message Bus realisiert
+* Build-System wurde Maven verwendet
 * Unit-Tests mittels JUnit
 
 Features:
